@@ -1,0 +1,40 @@
+{
+  "name": "strapi-provider-upload-aws-s3-extended",
+  "version": "3.0.0-beta.18.3",
+  "description": "extended version of the strapi-provider-upload-aws",
+    "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orhankutlu/strapi-provider-upload-aws-s3-extended.git"
+  },
+  "keywords": [
+    "strapi",
+    "aws",
+    "s3",
+    "upload",
+    "no",
+    "acl"
+  ],
+  "author": "Orhan Kutlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orhankutlu/strapi-provider-upload-aws-s3-extended/issues"
+  },
+  "homepage": "https://github.com/orhankutlu/strapi-provider-upload-aws-s3-extended#readme",
+  "dependencies": {
+    "aws-sdk": "^2.395.0"
+  }
+}
