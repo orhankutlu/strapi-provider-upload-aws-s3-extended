@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-aws-s3-extended",
+  "name": "strapi-provider-upload-aws-s3-ext",
   "version": "1.0.0",
   "description": "the extended version of the strapi-provider-upload-aws",
     "directories": {
