@@ -1,8 +1,12 @@
-# strapi-provider-upload-aws-s3-extended
+# strapi-provider-upload-aws-s3-ext
 
 ## Resources
 
 - [MIT License](LICENSE.md)
+
+## Install
+
+`npm install strapi-provider-upload-aws-s3-ext` 
 
 ## Description
 
