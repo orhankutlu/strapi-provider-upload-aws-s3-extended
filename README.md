@@ -25,6 +25,7 @@ You need to add a new property called `aws` to your `config/custom.json` file(s)
   "aws": {
     "accessKeyId": "${process.env.AWS_ACCESS_KEY_ID || AWS Access Key Id}",
     "secretAccessKey": "${process.env.AWS_SECRET_ACCESS_KEY || AWS Secret Key}"
+    "customBaseUrl": "${process.env.CDN_BASE_URL || 'https://cdn.example.com/'}"
   }
 }
 ```
